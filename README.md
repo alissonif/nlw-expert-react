@@ -23,11 +23,8 @@ https://github.com/alissonif/nlw-expert-react/assets/113787415/63a09ef2-80e2-4d3
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **React Native:** Framework para desenvolvimento de aplicativos móveis.
-- **Zustand:** Biblioteca de gerenciamento de estado para React.
-- **React Navigation:** Navegação e roteamento para aplicativos React Native.
+- **React:** Framework para desenvolvimento de aplicativos móveis.
 - **Tailwind CSS:** Framework de estilo utilitário para desenvolvimento ágil.
-- **clsx:** Utilitário para condicionalmente adicionar classes CSS.
   
 ## 🚀 Instalação
 
