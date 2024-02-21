@@ -25,6 +25,7 @@ https://github.com/alissonif/nlw-expert-react/assets/113787415/63a09ef2-80e2-4d3
 
 - **React:** Framework para desenvolvimento de aplicativos móveis.
 - **Tailwind CSS:** Framework de estilo utilitário para desenvolvimento ágil.
+- **speech recognition api google**:Converta voz em texto com acurácia usando uma API desenvolvida com o melhor da pesquisa e tecnologia do Google.
   
 ## 🚀 Instalação
 
